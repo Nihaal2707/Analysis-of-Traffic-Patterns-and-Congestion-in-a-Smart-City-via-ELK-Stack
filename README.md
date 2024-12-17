@@ -1,6 +1,6 @@
-**# Analysis-of-Traffic-Patterns-and-Congestion-in-a-Smart-City-via-ELK-Stack**
+# **Analysis-of-Traffic-Patterns-and-Congestion-in-a-Smart-City-via-ELK-Stack**
 
-**## Acknowledgment**
+## **Acknowledgment**
 
 We would like to express our sincere gratitude to the following individuals for their invaluable contributions to this project:
 
