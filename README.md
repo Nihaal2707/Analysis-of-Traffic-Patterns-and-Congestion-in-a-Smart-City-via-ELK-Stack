@@ -10,3 +10,10 @@ For his expert guidance and mentorship throughout the course of this project. Hi
 [Tanishq dublish](https://www.kaggle.com/tanishqdublish)
 For providing the dataset used in this study. The quality and richness of the data enabled us to extract meaningful insights and propose actionable recommendations.
 
+Connect Kibana to Elasticsearch
+
+Open the kibana.yml configuration file and set the Elasticsearch host:
+
+elasticsearch.hosts: ["http://localhost:9200"]
+
+
